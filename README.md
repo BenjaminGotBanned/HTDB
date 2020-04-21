@@ -15,3 +15,8 @@ When your terminal opens, type the following:
 > backend.exe example.html
 
 Then inside of the console, you should see that your bot is online.
+
+To check that your bot is online, run **?hello** in a server with the bot in it.
+If you didn't get a response or got an error message, you screwed up :P.
+
+### Have fun you little dweebs!
